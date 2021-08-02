@@ -1,3 +1,6 @@
+# VS Code Debugging
+.vscode/
+
 # Logs
 logs
 *.log
